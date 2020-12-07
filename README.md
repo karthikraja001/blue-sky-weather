@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://user-images.githubusercontent.com/64122408/101315587-dc6c8180-3880-11eb-8616-75ab507df137.png" height=50px width=50px>&emsp;Blue Sky Weather   :partly_sunny:    +    :closed_lock_with_key:    ===>   :point_down:    </h1>
+<h1 align="center"><img src="https://user-images.githubusercontent.com/64122408/101315587-dc6c8180-3880-11eb-8616-75ab507df137.png" height=50px width=50px>&emsp;Blue Sky Weather   :partly_sunny:    ===>   :point_down:    </h1>
 <h1 align="center">Demo:&emsp;&emsp;   https://blue-sky-weather.netlify.app/  </h1>
 
 <h1 align="center"><b>What's This? :brain:</b></h1>
