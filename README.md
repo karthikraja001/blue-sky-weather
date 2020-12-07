@@ -1,70 +1,45 @@
-# Getting Started with Create React App
+<h1 align="center"><img src="https://user-images.githubusercontent.com/64122408/101315587-dc6c8180-3880-11eb-8616-75ab507df137.png" height=50px width=50px>&emsp;Blue Sky Weather   :partly_sunny:    +    :closed_lock_with_key:    ===>   :point_down:    </h1>
+<h1 align="center">Demo:&emsp;&emsp;   https://mr-anonymous-official.github.io/random-password.js/  </h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1 align="center"><b>What's This? :brain:</b></h1>
+<br/>
 
-## Available Scripts
+* This is a basic weather app created using create-react-app and Openweathermap API
+* Search the city for full details about the weather conditions.
+* It has weather forecast for next 24 hours
 
-In the project directory, you can run:
+<h1 align="center"><b>Screenshots :camera_flash:</b></h1>
 
-### `yarn start`
+<br/>
+<br/>
+<h1 align="center"><b>Desktop View :computer:</b></h1>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+<br/>
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+<p align="center"><img src="https://user-images.githubusercontent.com/64122408/101349467-6a616000-38b3-11eb-8b8f-a89ad5739b6a.gif"/> </p>
 
-### `yarn test`
+<br/>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<h1 align="center"><b>Mobile View 📱</b></h1>
 
-### `yarn build`
+<br/>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<p align="center"><img src="https://user-images.githubusercontent.com/64122408/101349845-f1163d00-38b3-11eb-81dc-72ad0b166b9e.gif" width="250px" height="520px"/> </p>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<br/>
+<br/>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<h1 align="center"><b>NOTE :warning:</b></h1>
 
-### `yarn eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+# Feel free to fork This Project😇
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# CREDITS  
+:white_check_mark:**Karthik Raja**
+<p align="left">  
+<h3 align="left">Connect with me:</h3>  
+<a href="https://twitter.com/mranonymousofcl" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mranonymousofcl" height="30" width="40" /></a>  
+<a href="https://instagram.com/mr.anonymous_official" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mr.anonymous_official" height="30" width="40" /></a>  
+<a href="https://discord.com/channels/mr_anonymous_2001#4770" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="mranonymousofcl" height="30" width="40" /></a>
+</p>  
