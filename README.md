@@ -2,7 +2,10 @@
 <h1 align="center">Demo:&emsp;&emsp;   https://blue-sky-weather.netlify.app/  </h1>
 <br/>
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/506a6dd2-842a-486d-9348-b11456befe5a/deploy-status)](https://app.netlify.com/sites/blue-sky-weather/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/506a6dd2-842a-486d-9348-b11456befe5a/deploy-status)](https://app.netlify.com/sites/blue-sky-weather/deploys)&emsp;&emsp;
+[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/mr-anonymous-official/blue-sky-weather/blob/master/LICENSE)&emsp;&emsp;
+[![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)&emsp;&emsp;
+
 <h1 align="center"><b>What's This? :brain:</b></h1>
 <br/>
 
